@@ -1,0 +1,27 @@
+#box1 {
+    border: 2px solid black;
+    height: 600px;
+    width: 600px;
+    background-color: blue;
+}
+
+#box2 {
+    border: 2px solid black;
+    height: 400px;
+    width: 400px;
+    background-color: green;
+}
+
+#box3 {
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+
+#box4 {
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}

@@ -1,0 +1,42 @@
+#ok{
+    border: 5px solid black;
+    height: 500px;
+    width: 990px;
+    background-color: yellowgreen;
+
+}
+#H{
+   border: 2px solid black;
+   font-size: 50px;
+   height: 58px;
+   width: 123px;
+   background-color: aqua;
+   margin-left: 217px;
+}
+#A{
+    border: 2px solid black;
+    font-size: 50px;
+    height: 57px;
+    width: 129px;
+    background-color: aqua;
+    margin-left: 356px;
+    margin-top: -61px;
+ }
+ #C{
+    border: 2px solid black;
+    font-size: 50px;
+    height: 57px;
+    width: 166px;
+    background-color: aqua;
+    margin-left: 499px;
+    margin-top: -61px;
+ }
+ #He{
+    border: 2px solid black;
+    font-size: 50px;
+    height: 60px;
+    width: 102px;
+    background-color: aqua;
+    margin-left: 679px;
+    margin-top: -61px;
+ }

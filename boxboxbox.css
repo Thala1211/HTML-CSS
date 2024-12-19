@@ -1,0 +1,25 @@
+#box1{ 
+    border:2px solid black;
+    height:50px;
+    width:50px;
+    background-color:red;
+}
+#box2{
+    border:2px solid black;
+    height:50px;
+    width:50px;
+    background-color:green;
+    margin-left: 60px;
+    /* margin-bottom: -50px; */
+    margin-top: -54px;
+    
+    
+}
+#box3{border:2px solid black;
+    height:50px;
+    width:50px;
+    background-color:blue;
+    margin-left:120px;
+    margin-top: -54px;
+    
+}

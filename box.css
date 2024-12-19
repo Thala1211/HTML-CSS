@@ -1,0 +1,20 @@
+#box1{ 
+    border:2px solid black;
+    height:50px;
+    width:50px;
+    background-color:red;
+}
+#box2{
+    border:2px solid black;
+    height:50px;
+    width:50px;
+    background-color:green;
+    
+    
+}
+#box3{border:2px solid black;
+    height:50px;
+    width:50px;
+    background-color:blue;
+    
+}

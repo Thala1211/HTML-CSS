@@ -1,0 +1,30 @@
+
+#box1{ 
+    border:2px solid black;
+    height:100px;
+    width:100px;
+    background-color:red;
+}
+#box2{
+    border:2px solid black;
+    height:100px;
+    width:100px;
+    background-color:green;
+    
+}
+#box3{border:2px solid black;
+    height:100px;
+    width:100px;
+    background-color:blue;
+    
+}
+#box4{border:2px solid black;
+    height:100px;
+    width: 100px;
+    background-color:chartreuse;
+    
+}
+.container{
+    display:flex;
+    
+}

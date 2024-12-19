@@ -1,0 +1,44 @@
+#box1 {
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 303px;
+    top: 29px;
+    z-index: 1;
+    
+}
+
+#box2 {
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+    left: 390px;
+    top: 67px;
+    z-index: 2;
+}
+
+#box3 {
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    background-color: yellow;
+    position: absolute;
+    left: 304px;
+    top: 104px;
+    z-index: 3;
+}
+
+#box4 {
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    left: 216px;
+    top: 67px;
+    z-index: 4;
+}

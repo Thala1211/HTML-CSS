@@ -1,0 +1,36 @@
+#box1 {
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    margin-left: 200px;
+    margin-top: 15px;
+    
+}
+
+#box2 {
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    background-color: green;
+    margin-left: 98px;
+    margin-top: -2px;
+}
+
+#box3 {
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    background-color: yellow;
+    margin-left: 302px;
+    margin-top: -53px;
+}
+
+#box4 {
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    background-color: red;
+    margin-left: 200px;
+    margin-top: -2px;
+}
